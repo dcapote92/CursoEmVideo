@@ -1,0 +1,5 @@
+var = input('Digite alguma coisa: ')
+print(type(var))
+print(var.isalnum())
+print(var.isalpha())
+print(var.islower())
